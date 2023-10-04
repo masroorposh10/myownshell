@@ -1,6 +1,6 @@
 # myownshell
 # My own bash command shell made using C.
-Used execv(, fork() and many other functions for this.
+Used execv(), fork() and many other functions for this.
 ## Make file
 Also a makefile is provided to run Debug and test this.
 
